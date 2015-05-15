@@ -6,6 +6,6 @@ public class Test2Git {
 		System.out.println("点撒算法打123456");
 		
 		
-		System.out.println("feature 123");
+		System.out.println("feature 123 456");
 	}
 }
